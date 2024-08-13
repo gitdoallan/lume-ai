@@ -1,0 +1,1 @@
+export type GenderBadgeProps =  { gender: "male" | "female" }

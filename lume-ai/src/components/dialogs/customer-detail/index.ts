@@ -1,0 +1,1 @@
+export { CustomerDetailsDialog } from './customer-detail';
